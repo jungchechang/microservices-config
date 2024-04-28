@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to HappyBank accounts related prod APIs "
+  message: "Welcome to HappyBank accounts related APIs "
   contactDetails:
     name: "Reine Aishwa - Product Owner"
     email: "{cipher}6dd97f6322a7ea192a1d3b67a072968b5ecfdbff53e9ade7174832ec1b87b09c86a24d67a7a83acb28f8c9cb640ca605"
